@@ -1,0 +1,14 @@
+{
+  "name": "Uipath_AI_Integration",
+  "description": "Project",
+  "main": "FindRemmitance.xaml",
+  "dependencies": {},
+  "excludedData": [
+    "Private:*",
+    "*password*"
+  ],
+  "toolVersion": "18.2",
+  "projectVersion": "1.0.6795.17005",
+  "packOptions": {},
+  "runtimeOptions": {}
+}
